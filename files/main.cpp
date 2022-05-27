@@ -7,6 +7,8 @@ using namespace std;
 	#include "../cp-library/files/debug.h"
 #else
 	#define dug(...) 0
+	#define dug_a(...) 0
+	#define dug_a2(...) 0
 #endif
 
 int main(){
